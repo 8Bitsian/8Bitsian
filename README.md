@@ -1,6 +1,6 @@
 - 🤗 Hi, I’m @LemonRindz
 - 📫 Contacts: LemonZRaider@gmail.com
 - 💅🏼 Pronouns: She/Her
-- 👩🏽‍💻 I work with Python and I would love to learn how to use the GoDot game engine since it utilizes it!
+- 👩🏽‍💻 I'm studying Python code to learn how to develop games with the GoDot engine.
 - 📚 I’m currently learning how to design and develop programs in VisualStudio with Python. I also want to learn how to use C++.
 - 🫱🏻‍🫲🏽 I would love to collaborate whenever I start a new project! Feel free to send me constructive criticism for my codes!

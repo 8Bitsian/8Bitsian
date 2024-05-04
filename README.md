@@ -1,4 +1,4 @@
 - 🤗 Hi, I’m Imani (@LemonRindz)
 - 👩🏽‍💻 I'm studying Python code to learn how to develop games with the GoDot engine.
-- 📚 I’m currently learning to design and develop programs in VisualStudio with Python. I also want to learn how to use C++.
+- 📚 I’m currently learning to design and develop programs in VisualStudio with Python. I also want to learn how to use C++ and JavaScript.
 - 🫱🏻‍🫲🏽 I would love to collaborate whenever I start a new project! Feel free to send me constructive criticism for my codes!

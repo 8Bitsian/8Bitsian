@@ -9,10 +9,10 @@ I'm now designing and developing programs using Visual Studio (Python, C++, HTML
 - Tools: Visual Studio, CLion, IntelliJ, Git, Oracle, Qualys
 - Certifications:
   - CPA: Programming Essentials in C++ w/CISCO Networking Academy
-  - Vulnerability Management Detection and Response Foundation w/ Qualys
-  - Endpoint Detection and Response Foundation w/ Qualys
-  - Policy Compliance Foundation w/ Qualys
-  - PCI Compliance Foundation w/ Qualys
+  - Vulnerability Management Detection and Response Foundation w/Qualys
+  - Endpoint Detection and Response Foundation w/Qualys
+  - Policy Compliance Foundation w/Qualys
+  - PCI Compliance Foundation w/Qualys
 
 📑 **Projects & Experience**
 

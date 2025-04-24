@@ -1,6 +1,6 @@
 # 🤗 Hello There!
 
-I’m Imani (@LemonRindz) and I'm currently pursuing an Associate's Degree in Computer Programming.
+I’m Imani (@8Bitsian) and I'm currently pursuing an Associate's Degree in Computer Programming.
 I design and develop programs using Visual Studio (Python, C++, HTML, JavaScript) and JetBrains tools (CLion for C++ and IntelliJ for Java).
 
 ## 📚 Skills & Certifications

@@ -21,7 +21,7 @@ I design and develop programs using Visual Studio (Python, C++, HTML, JavaScript
  - **Internship/Job Title**: [Company Name]
    - Brief description of your role and responsibilities
 ### Projects
- - **Summit Calculator**: [Summit Calculator](https://github.com/8Bitsian/Summit-Calculation-Application)
+ - **Summit Calculator**: [Summit Calculator](https://github.com/users/8Bitsian/projects/3)
    - **Purpose**: A Python-based calculator combining basic and advanced arithmetic, equation solving, statistics, unit conversions, and an intuitive GUI. It supports complex computations, symbolic algebra, and memory storage, with expansions for voice input, graph plotting, and web integration.
    - **Technologies Used**: Python, PyCharm, Visual Studio, SymPy, NumPy, PyQt, MatplotLib, SQLite, SppechRecognition, Flask
    - **Role/Responsibilities**: As the sole developer, I am responsible for designing and implementing both front-end and back-end functionalities, ensuring efficiency, accuracy, and usability.

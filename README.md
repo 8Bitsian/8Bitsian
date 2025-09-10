@@ -1,31 +1,11 @@
-# 🤗 Hello!
+## 🤗 Hello, I'm Imani (8Bitsian)!
 
-I’m Imani (@8Bitsian) and I'm currently pursuing an Associate's Degree in Computer Programming.
-I design and develop programs using Visual Studio (Python, C++, HTML, JavaScript) and JetBrains tools (CLion for C++ and IntelliJ for Java).
+🖥️ Software Developer learning how to code better in Visual Studio and JetBrains<br/>
+📹 Filming videos about Computer Programming on [YouTube](https://www.youtube.com/@8BitSoftware)<br/>
+🎓 Studying for an Associate's degree in Computer Programming at Gwinnett Technical College<br/>
+🫱🏻‍🫲🏽 I am always open to collaboration on new projects! Constructive feedback on my code is greatly appreciated<br/>
 
-## 📚 Skills & Certifications
+<!-- GitHub states from https://github.com/anuraghazra/github-readme-stats -->
 
-### Skills
-- **Languages**: Python, C++, Java, HTML, CSS, JavaScript, and SQL
-- **Tools**: Visual Studio, CLion, IntelliJ, Git, Oracle, Qualys
-### Certifications
-- **CPA Programming Essentials in C++** [CISCO Networking Academy]
-- **Vulnerability Management Detection and Response Foundation** [Qualys]
-- **Endpoint Detection and Response Foundation** [Qualys]
-- **Policy Compliance Foundation** [Qualys]
-- **PCI Compliance Foundation** [Qualys]
-
-## 📑 Projects & Experience
-
-### Experience
- - **Internship/Job Title**: [Company Name]
-   - Brief description of your role and responsibilities
-### Projects
- - **Summit Calculator**: [Summit Calculator](https://github.com/users/8Bitsian/projects/3)
-   - **Purpose**: A Python-based calculator combining basic and advanced arithmetic, equation solving, statistics, unit conversions, and an intuitive GUI. It supports complex computations, symbolic algebra, and memory storage, with expansions for voice input, graph plotting, and web integration.
-   - **Technologies Used**: Python, PyCharm, Visual Studio, SymPy, NumPy, PyQt, MatplotLib, SQLite, SppechRecognition, Flask
-   - **Role/Responsibilities**: As the sole developer, I am responsible for designing and implementing both front-end and back-end functionalities, ensuring efficiency, accuracy, and usability.
-
-## 🫱🏻‍🫲🏽 Collaboration
-
-I am always open to collaboration on new projects! Constructive feedback on my code is greatly appreciated.
+[![8Bitsian's GitHub stats](https://github-readme-stats.vercel.app/api?username=8Bitsian&show_icons=true&theme=shades-of-purple)](https://github.com/8Bitsian/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=shades-of-purple)

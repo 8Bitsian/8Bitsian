@@ -1,9 +1,9 @@
 Header.png
 
-## 🤗 Hello, I'm Imani Hollie (8Bitsian)!
-🖥️ Working to become a full time Software Developer<br/>
+# 🤗 Hello, I'm Imani Hollie (8Bitsian)!
 
 ## 😁 About Me
+🖥️ Working to become a full time Software Developer<br/>
 🎓 Studying for an Associate's degree in Computer Programming at Gwinnett Technical College<br/>
 📹 Filming videos about Computer Programming on ![Dynamic Badge](https://img.shields.io/badge/YouTube-2026?logo=youtube&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https%3A%2F%2Fwww.youtube.com%2F%408BitSoftware)<br/>
 🦋 Posting about Computer Programming on ![Static Badge](https://img.shields.io/badge/BlueSky-2026?logo=bluesky&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https%3A%2F%2Fbsky.app%2Fprofile%2F8bitsian.bsky.social)<br/>
@@ -21,4 +21,4 @@ Header.png
 ![Static Badge](https://img.shields.io/badge/PyCharm-2025?logo=pycharm&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)
 
 ## 📊 Statistics
-[![8Bitsian's GitHub stats](https://github-readme-stats.vercel.app/api?username=8Bitsian)](https://github.com/8Bitsian/github-readme-stats)
+[![8Bit's GitHub stats](https://github-readme-stats.vercel.app/api?username=8bitsoftware)](https://github.com/anuraghazra/github-readme-stats)

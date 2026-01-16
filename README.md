@@ -21,4 +21,4 @@ Header.png
 ![Static Badge](https://img.shields.io/badge/PyCharm-2025?logo=pycharm&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)
 
 ## 📊 Statistics
-[![8Bit's GitHub stats](https://github-readme-stats.vercel.app/api?username=8bitsoftware)](https://github.com/anuraghazra/github-readme-stats)
+[![8BitSoftware's GitHub stats](https://github-readme-stats.vercel.app/api?username=8BitSoftware)](https://github.com/anuraghazra/github-readme-stats)

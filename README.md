@@ -8,15 +8,15 @@
 
 ## 🛠️ Tech & Tools
 <!-- Badges from https://github.com/simple-icons/simple-icons -->
-![Static Badge](https://img.shields.io/badge/C%2B%2B-23?logo=cplusplus&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)
-![Static Badge](https://img.shields.io/badge/Java-25?logo=openjdk&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)
-![Static Badge](https://img.shields.io/badge/Python-3?logo=python&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)
-![Static Badge](https://img.shields.io/badge/GitHub-2026?logo=github&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)
-![Static Badge](https://img.shields.io/badge/Draw.io-2026?logo=diagramsdotnet&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)
-![Static Badge](https://img.shields.io/badge/JetBrains-2026?logo=jetbrains&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)
-![Static Badge](https://img.shields.io/badge/CLion-2025?logo=clion&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)
-![Static Badge](https://img.shields.io/badge/IntelliJ-2025?logo=intellijidea&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)
-![Static Badge](https://img.shields.io/badge/PyCharm-2025?logo=pycharm&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)
+[![C++ Badge](https://img.shields.io/badge/C%2B%2B-23?logo=cplusplus&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://isocpp.org/)
+[![Java Badge](https://img.shields.io/badge/Java-25?logo=openjdk&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.java.com/)
+[![Python Badge](https://img.shields.io/badge/Python-3?logo=python&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.python.org/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-2026?logo=github&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://github.com/)
+[![Draw.io Badge](https://img.shields.io/badge/Draw.io-2026?logo=diagramsdotnet&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://app.diagrams.net/)
+[![JetBrains Badge](https://img.shields.io/badge/JetBrains-2026?logo=jetbrains&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.jetbrains.com/)
+[![CLion Badge](https://img.shields.io/badge/CLion-2025?logo=clion&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.jetbrains.com/clion/)
+[![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-2025?logo=intellijidea&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.jetbrains.com/idea/)
+[![PyCharm Badge](https://img.shields.io/badge/PyCharm-2025?logo=pycharm&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.jetbrains.com/pycharm/)
 
 ## 📊 Statistics
 <!-- Streak activity from https://github.com/DenverCoder1/github-readme-streak-stats -->

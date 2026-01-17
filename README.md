@@ -18,10 +18,9 @@
 ![Static Badge](https://img.shields.io/badge/IntelliJ-2025?logo=intellijidea&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)
 ![Static Badge](https://img.shields.io/badge/PyCharm-2025?logo=pycharm&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)
 
-## 📊 Statistics & Activity
-### 🔥 Streak Activity
+## 📊 Statistics
 <!-- Streak activity from https://github.com/DenverCoder1/github-readme-streak-stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=8Bitsian&theme=github-dark-blue&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-### ℹ️ General Statistics
 <!-- Info cards from https://github.com/anuraghazra/github-readme-stats -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=8Bitsian)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Contribution](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8Bitsian&theme=buefy)
+![GitHub Stats](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/buefy/3-stats.svg)
+![GitHub Lang Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=8Bitsian&theme=buefy)

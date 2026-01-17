@@ -21,5 +21,6 @@ Header.png
 ![Static Badge](https://img.shields.io/badge/PyCharm-2025?logo=pycharm&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)
 
 ## 📊 Statistics
-[![8Bitsian's GitHub stats](https://github-readme-stats.vercel.app/api?username=8Bitsian)](https://github.com/8Bitsian/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8Bitsian)](https://github.com/8Bitsian/github-readme-stats)
+<!-- GitHub states from https://github.com/anuraghazra/github-readme-stats -->
+[![8Bitsian's GitHub stats](https://github-readme-stats.vercel.app/api?username=8Bitsian&show_icons=true&theme=shades-of-purple)](https://github.com/8Bitsian/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=shades-of-purple)

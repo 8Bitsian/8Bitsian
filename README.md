@@ -1,8 +1,5 @@
-Header.png
-
-# 🤗 Hello, I'm Imani Hollie (8Bitsian)!
-
-## 😁 About Me
+## 😁 Hello, I'm Imani Hollie (8Bitsian)!
+<!-- Badges from https://github.com/simple-icons/simple-icons -->
 🖥️ Working to become a full time Software Developer<br/>
 🎓 Studying for an Associate's degree in Computer Programming at Gwinnett Technical College<br/>
 📹 Filming videos about Computer Programming on [![Youtube Badge](https://img.shields.io/badge/YouTube-2026?logo=youtube&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https://www.youtube.com/8BitSoftware)](https://www.youtube.com/@8BitSoftware)<br/>
@@ -22,16 +19,9 @@ Header.png
 ![Static Badge](https://img.shields.io/badge/PyCharm-2025?logo=pycharm&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)
 
 ## 📊 Statistics & Activity
-<!-- Info cards from https://github.com/anuraghazra/github-readme-stats -->
 ### 🔥 Streak Activity
+<!-- Streak activity from https://github.com/DenverCoder1/github-readme-streak-stats -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=8Bitsian&theme=github-dark-blue&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-### 🖥️ Profile Statistics
-[![8Bitsian's GitHub stats](https://github-readme-stats.vercel.app/api?username=8bitsian&show_icons=true&theme=github-dark-blue)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### 🖥️ Profile Statistics
-<a href='https://github.com/8bitsian/github-stats-transparent'>
-![Stats Overview](https://raw.githubusercontent.com/8bitsian/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/8bitsian/github-stats-transparent/output/generated/languages.svg)
-</a>
-<br>
+### ℹ️ General Statistics
+<!-- Info cards from https://github.com/anuraghazra/github-readme-stats -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=8Bitsian)](https://github.com/anuraghazra/github-readme-stats)

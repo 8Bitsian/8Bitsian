@@ -20,3 +20,15 @@ Header.png
 ![Static Badge](https://img.shields.io/badge/CLion-2025?logo=clion&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)
 ![Static Badge](https://img.shields.io/badge/IntelliJ-2025?logo=intellijidea&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)
 ![Static Badge](https://img.shields.io/badge/PyCharm-2025?logo=pycharm&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)
+
+## 📊 Statistics & Activity
+<!-- Info cards from https://github.com/anuraghazra/github-readme-stats -->
+### 🔥 Streak Activity
+[![GitHub Streak](https://streak-stats.demolab.com?user=8BitSoftware&theme=github-dark-blue&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+### 🖥️ Profile Statistics
+<a href='https://github.com/8bitsoftware/github-stats-transparent'>
+![Stats Overview](https://raw.githubusercontent.com/8bitsoftware/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/8bitsoftware/github-stats-transparent/output/generated/languages.svg)
+</a>
+<br>

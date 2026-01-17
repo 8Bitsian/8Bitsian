@@ -24,11 +24,14 @@ Header.png
 ## 📊 Statistics & Activity
 <!-- Info cards from https://github.com/anuraghazra/github-readme-stats -->
 ### 🔥 Streak Activity
-[![GitHub Streak](https://streak-stats.demolab.com?user=8BitSoftware&theme=github-dark-blue&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=8Bitsian&theme=github-dark-blue&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+### 🖥️ Profile Statistics
+[![8Bitsian's GitHub stats](https://github-readme-stats.vercel.app/api?username=8bitsian&show_icons=true&theme=github-dark-blue)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 🖥️ Profile Statistics
-<a href='https://github.com/8bitsoftware/github-stats-transparent'>
-![Stats Overview](https://raw.githubusercontent.com/8bitsoftware/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/8bitsoftware/github-stats-transparent/output/generated/languages.svg)
+<a href='https://github.com/8bitsian/github-stats-transparent'>
+![Stats Overview](https://raw.githubusercontent.com/8bitsian/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/8bitsian/github-stats-transparent/output/generated/languages.svg)
 </a>
 <br>

@@ -4,6 +4,13 @@
 🎓 Studying for an Associate's degree in Computer Programming at Gwinnett Technical College<br/>
 🫱🏻‍🫲🏽 I am always open to collaboration on new projects! Constructive feedback on my code is greatly appreciated<br/>
 
+## 📊 Statistics
+<!-- Streak activity from https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- Info cards from https://github.com/anuraghazra/github-readme-stats -->
+![GitHub Contribution](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8Bitsian&theme=buefy)
+![GitHub Stats](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/buefy/3-stats.svg)
+![GitHub Lang Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=8Bitsian&theme=buefy)
+
 ## 🛠️ Tech & Tools
 <!-- Badges from https://github.com/simple-icons/simple-icons -->
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-23?logo=cplusplus&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://isocpp.org/)
@@ -15,13 +22,6 @@
 [![CLion Badge](https://img.shields.io/badge/CLion-2025?logo=clion&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.jetbrains.com/clion/)
 [![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-2025?logo=intellijidea&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.jetbrains.com/idea/)
 [![PyCharm Badge](https://img.shields.io/badge/PyCharm-2025?logo=pycharm&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.jetbrains.com/pycharm/)
-
-## 📊 Statistics
-<!-- Streak activity from https://github.com/DenverCoder1/github-readme-streak-stats -->
-<!-- Info cards from https://github.com/anuraghazra/github-readme-stats -->
-![GitHub Contribution](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8Bitsian&theme=buefy)
-![GitHub Stats](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/buefy/3-stats.svg)
-![GitHub Lang Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=8Bitsian&theme=buefy)
 
 ## 📧 Socials
 <!-- Badges from https://github.com/simple-icons/simple-icons -->

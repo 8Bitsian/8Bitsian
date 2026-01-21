@@ -17,7 +17,7 @@ jobs:
         with:
           channel_id: UCz2KtkZvoTYOhHOpTr1Jg0g
           lang: en
-          max_videos: 6
+          max_videos: 3
           card_width: 250
           border_radius: 5
           background_color: "#8c52ff"

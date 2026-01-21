@@ -33,4 +33,8 @@
 ## 📹 YouTube Videos
 <!-- YouTube Cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- BEGIN YOUTUBE-CARDS -->
+[![First Stream (☕ Java 25)](https://ytcards.demolab.com/?id=5FRvKGt6tio&title=First+Stream+%28%E2%98%95+Java+25%29&lang=en&timestamp=1769030800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "First Stream (☕ Java 25)")](https://www.youtube.com/watch?v=5FRvKGt6tio)
+[![5-Minute Interview (☕ Java 25)](https://ytcards.demolab.com/?id=CfNhQihcNpw&title=5-Minute+Interview+%28%E2%98%95+Java+25%29&lang=en&timestamp=1768776753&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "5-Minute Interview (☕ Java 25)")](https://www.youtube.com/watch?v=CfNhQihcNpw)
+[![5-Minute Interview (👾 C++ 26)](https://ytcards.demolab.com/?id=negYYQdZIIc&title=5-Minute+Interview+%28%F0%9F%91%BE+C%2B%2B+26%29&lang=en&timestamp=1768775151&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "5-Minute Interview (👾 C++ 26)")](https://www.youtube.com/watch?v=negYYQdZIIc)
+[![8Bitsian Live Stream](https://ytcards.demolab.com/?id=WIGwrbuk4UY&title=8Bitsian+Live+Stream&lang=en&timestamp=1764627567&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "8Bitsian Live Stream")](https://www.youtube.com/watch?v=WIGwrbuk4UY)
 <!-- END YOUTUBE-CARDS -->

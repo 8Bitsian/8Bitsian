@@ -29,3 +29,8 @@
 ![GitHub Contribution](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8Bitsian&theme=buefy)
 ![GitHub Stats](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/buefy/3-stats.svg)
 ![GitHub Lang Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=8Bitsian&theme=buefy)
+
+## 📹 YouTube Videos
+<!-- YouTube Cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->

@@ -26,7 +26,7 @@
 ## 📧 Socials
 <!-- Badges from https://github.com/simple-icons/simple-icons -->
 [![Stack Overflow Badge](https://img.shields.io/badge/StackOverflow-2026?logo=stackoverflow&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https://bsky.app/profile/8bitsian.bsky.social)](https://stackoverflow.com/users/32219858/8bitsian)
-[![Bluesky Badge](https://img.shields.io/badge/BlueSky-2026?logo=bluesky&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https://bsky.app/profile/8bitsian.bsky.social)](https://bsky.app/profile/8bitsian.bsky.social)
+[![Bluesky Badge](https://img.shields.io/badge/BlueSky-2026?logo=bluesky&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https://bsky.app/profile/8bitsian.bsky.social)](https://bsky.app/profile/8bitsoftware.bsky.social)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-2026?logo=youtube&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https://www.youtube.com/8BitSoftware)](https://www.youtube.com/@8BitSoftware)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-2026?logo=twitch&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https://www.twitch.tv/8bitsoftware)](https://www.twitch.tv/8bitsoftware)
 

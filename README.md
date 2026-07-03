@@ -1,4 +1,4 @@
-## 😁 Hello, I'm Imani Hollie (8Bitsian)!
+## 😁 Hello, I'm Imani Hollie (8BitSoftware)!
 <!-- Badges from https://github.com/simple-icons/simple-icons -->
 🖥️ Working to become a full time Software Developer<br/>
 🎓 Studying for an Associate's degree in Computer Programming at Gwinnett Technical College<br/>

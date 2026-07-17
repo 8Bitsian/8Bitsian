@@ -8,16 +8,23 @@
 <!-- Streak activity from https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!-- Info cards from https://github.com/anuraghazra/github-readme-stats -->
 ![GitHub Contribution](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8Bitsian&theme=buefy)
-![GitHub Stats](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/buefy/3-stats.svg)
-![GitHub Lang Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=8Bitsian&theme=buefy)
 
 ## 🛠️ Tech & Tools
 <!-- Badges from https://github.com/simple-icons/simple-icons -->
+<!-- The World Wide Web Consortium (W3C) develops the HTML5 and CSS standards from https://www.w3.org/ -->
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-23?logo=cplusplus&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://isocpp.org/)
 [![Java Badge](https://img.shields.io/badge/Java-25?logo=openjdk&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.java.com/)
 [![Python Badge](https://img.shields.io/badge/Python-3?logo=python&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.python.org/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-2026?logo=github&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://github.com/)
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-2026?logo=html5&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.w3.org/html/)
+[![CSS Badge](https://img.shields.io/badge/CSS-2026?logo=css&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-2026?logo=javascript&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[![Figma Badge](https://img.shields.io/badge/Figma-2026?logo=figma&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.figma.com/)
 [![Draw.io Badge](https://img.shields.io/badge/Draw.io-2026?logo=diagramsdotnet&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://app.diagrams.net/)
+[![Obsidian Badge](https://img.shields.io/badge/Obsidian-2026?logo=obsidian&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://obsidian.md/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-2026?logo=github&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://github.com/)
+[![VSCodium Badge](https://img.shields.io/badge/VSCodium-2026?logo=vscodium&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://vscodium.com/)
+
 [![JetBrains Badge](https://img.shields.io/badge/JetBrains-2026?logo=jetbrains&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.jetbrains.com/)
 [![CLion Badge](https://img.shields.io/badge/CLion-2025?logo=clion&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.jetbrains.com/clion/)
 [![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-2025?logo=intellijidea&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.jetbrains.com/idea/)

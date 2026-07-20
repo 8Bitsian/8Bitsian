@@ -5,7 +5,7 @@
 
 ## 📊 Statistics
 [![GitHub Contribution](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8Bitsian&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=8Bitsian&theme=buefy)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=8Bitsian&theme=buefy&hide_border=true&exclude_days=Sun%2CSat&card_width=300&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ## 🛠️ Tech & Tools
 <!-- Badges from https://github.com/simple-icons/simple-icons -->

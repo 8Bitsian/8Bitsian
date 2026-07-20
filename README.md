@@ -2,6 +2,8 @@
 🖥️ Working to become a full time Software Developer<br/>
 🎓 Studying for an Associate's degree in Computer Programming at Gwinnett Technical College<br/>
 🫱🏻‍🫲🏽 I am always open to collaboration on new projects! Constructive feedback on my code is greatly appreciated<br/>
+<!-- Badges from https://github.com/DenverCoder1/custom-icon-badges -->
+
 
 <!-- Badges from https://github.com/simple-icons/simple-icons -->
 [![Stack Overflow Badge](https://img.shields.io/badge/StackOverflow-2026?logo=stackoverflow&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https://bsky.app/profile/8bitsian.bsky.social)](https://stackoverflow.com/users/32219858/8bitsian)
@@ -26,6 +28,7 @@
 [![Draw.io Badge](https://img.shields.io/badge/Draw.io-2026?logo=diagramsdotnet&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://app.diagrams.net/)
 [![Obsidian Badge](https://img.shields.io/badge/Obsidian-2026?logo=obsidian&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://obsidian.md/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-2026?logo=github&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://github.com/)
+[![Geany Badge](https://img.shields.io/badge/Geany-2026?logo=github&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.geany.org/)
 [![VSCodium Badge](https://img.shields.io/badge/VSCodium-2026?logo=vscodium&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://vscodium.com/)
 [![JetBrains Badge](https://img.shields.io/badge/JetBrains-2026?logo=jetbrains&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.jetbrains.com/)
 [![CLion Badge](https://img.shields.io/badge/CLion-2025?logo=clion&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.jetbrains.com/clion/)

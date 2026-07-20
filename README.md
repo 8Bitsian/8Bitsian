@@ -8,6 +8,7 @@
 <!-- Streak activity from https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!-- Info cards from https://github.com/anuraghazra/github-readme-stats -->
 ![GitHub Contribution](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8Bitsian&theme=buefy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=8Bitsian&theme=buefy&hide_border=true&card_width=300&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ## 🛠️ Tech & Tools
 <!-- Badges from https://github.com/simple-icons/simple-icons -->

@@ -5,7 +5,6 @@
 
 ## 📊 Statistics
 [![GitHub Contribution](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8Bitsian&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=8Bitsian&theme=buefy&hide_border=true&exclude_days=Sun%2CSat&card_width=300&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ## 🛠️ Tech & Tools
 <!-- Badges from https://github.com/simple-icons/simple-icons -->
@@ -42,3 +41,12 @@
 [![Class Assignments (☕ Java 26)](https://ytcards.demolab.com/?id=QTq5xdyDUyI&title=Class+Assignments+%28%E2%98%95+Java+26%29&lang=en&timestamp=1769147695&background_color=%23ffde59&title_color=%238c52ff&stats_color=%238c52ff&max_title_lines=2&width=250&border_radius=5 "Class Assignments (☕ Java 26)")](https://www.youtube.com/watch?v=QTq5xdyDUyI#gh-dark-mode-only)[![Class Assignments (☕ Java 26)](https://ytcards.demolab.com/?id=QTq5xdyDUyI&title=Class+Assignments+%28%E2%98%95+Java+26%29&lang=en&timestamp=1769147695&background_color=%23ffde59&title_color=%238c52ff&stats_color=%238c52ff&max_title_lines=2&width=250&border_radius=5 "Class Assignments (☕ Java 26)")](https://www.youtube.com/watch?v=QTq5xdyDUyI#gh-light-mode-only)
 [![First Stream (☕ Java 26)](https://ytcards.demolab.com/?id=5FRvKGt6tio&title=First+Stream+%28%E2%98%95+Java+26%29&lang=en&timestamp=1769030800&background_color=%23ffde59&title_color=%238c52ff&stats_color=%238c52ff&max_title_lines=2&width=250&border_radius=5 "First Stream (☕ Java 26)")](https://www.youtube.com/watch?v=5FRvKGt6tio#gh-dark-mode-only)[![First Stream (☕ Java 26)](https://ytcards.demolab.com/?id=5FRvKGt6tio&title=First+Stream+%28%E2%98%95+Java+26%29&lang=en&timestamp=1769030800&background_color=%23ffde59&title_color=%238c52ff&stats_color=%238c52ff&max_title_lines=2&width=250&border_radius=5 "First Stream (☕ Java 26)")](https://www.youtube.com/watch?v=5FRvKGt6tio#gh-light-mode-only)
 <!-- END YOUTUBE-CARDS -->
+
+## 💽 Repositories
+<!-- Repository Cards from https://github.com/stats-organization/github-stats-extended -->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/Java-Fall-2026&description_lines_count=2&theme=buefy)](https://github.com/8Bitsian/Java-Fall-2026)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/CPP-Fall-2026&description_lines_count=2&theme=buefy)](https://github.com/8Bitsian/CPP-Fall-2026)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/Java-Spring-2026&description_lines_count=2&theme=buefy)](https://github.com/8Bitsian/Java-Spring-2026)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/CPP-Spring-2026&description_lines_count=2&theme=buefy)](https://github.com/8Bitsian/CPP-Spring-2026)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/SYST-Spring-2026&description_lines_count=2&theme=buefy)](https://github.com/8Bitsian/SYST-Spring-2026)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/PDD-Spring-2024&description_lines_count=2&theme=buefy)](https://github.com/8Bitsian/PDD-Spring-2024)

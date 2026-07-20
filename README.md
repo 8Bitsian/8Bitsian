@@ -1,14 +1,11 @@
 ## 😁 Hello, I'm Imani Hollie (8BitSoftware)!
-<!-- Badges from https://github.com/simple-icons/simple-icons -->
 🖥️ Working to become a full time Software Developer<br/>
 🎓 Studying for an Associate's degree in Computer Programming at Gwinnett Technical College<br/>
 🫱🏻‍🫲🏽 I am always open to collaboration on new projects! Constructive feedback on my code is greatly appreciated<br/>
 
 ## 📊 Statistics
-<!-- Streak activity from https://github.com/DenverCoder1/github-readme-streak-stats -->
-<!-- Info cards from https://github.com/anuraghazra/github-readme-stats -->
-![GitHub Contribution](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8Bitsian&theme=buefy)
-[![GitHub Streak](https://streak-stats.demolab.com?user=8Bitsian&theme=buefy&hide_border=true&card_width=300&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Contribution](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8Bitsian&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=8Bitsian&theme=buefy&hide_border=true&card_width=350&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ## 🛠️ Tech & Tools
 <!-- Badges from https://github.com/simple-icons/simple-icons -->

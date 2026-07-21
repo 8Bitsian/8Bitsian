@@ -1,6 +1,7 @@
 <!-- Profile based on https://techwithgen.github.io/profile-studio/ -->
 <!-- Get more cards from https://github.com/DenverCoder1/ -->
 <!-- Get more badges from https://github.com/simple-icons/simple-icons -->
+<!-- Previous 📊 Statistics https://github.com/anuraghazra/github-readme-stats -->
 
 <h1 align="center">
   <span style="color:#ffde59;">Imani Hollie (8BitSoftware)</span>
@@ -19,9 +20,6 @@
 [![Bluesky Badge](https://img.shields.io/badge/BlueSky-2026?logo=bluesky&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https://bsky.app/profile/8bitsian.bsky.social)](https://bsky.app/profile/8bitsoftware.bsky.social)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-2026?logo=twitch&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https://www.twitch.tv/8bitsoftware)](https://www.twitch.tv/8bitsoftware)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-2026?logo=youtube&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https://www.youtube.com/8BitSoftware)](https://www.youtube.com/@8BitSoftware)
-
-## 📊 Statistics
-[![GitHub Contribution](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8Bitsian&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Tech & Tools
 <!-- The World Wide Web Consortium (W3C) develops the HTML5 and CSS standards from https://www.w3.org/ -->

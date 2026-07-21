@@ -7,22 +7,30 @@
 </h1>
 
 <p align="center">
-  <b align="center">An aspiring full-stack software developer in the making</b><br/>
-  <i>Share Ideas. Share Process. Share Source.</i>
+  <b align="center">An aspiring full-stack software developer in the making.</b><br/>
+  <i>Share Ideas. Share Process. Share Sources.</i>
 </p>
 
 ## 👩🏽‍💻 About Me
 > 🎓 Studying for an Associate's degree in Computer Programming<br/>
-> 🖥️ Currently working on my [Java fall course](https://github.com/8Bitsian/Java-Fall-2026)<br/>
-> 🫱🏻‍🫲🏽 I am open to collaboration on new projects<br/>
+> 🖥️ Currently working on my [fall courses](https://github.com/8Bitsian/Java-Fall-2026) for the 2026 semester<br/>
+> 🫱🏻‍🫲🏽 I am always open to collaboration on new projects<br/>
+
+[![Stack Overflow Badge](https://img.shields.io/badge/StackOverflow-2026?logo=stackoverflow&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https://bsky.app/profile/8bitsian.bsky.social)](https://stackoverflow.com/users/32219858/8bitsian)
+[![Bluesky Badge](https://img.shields.io/badge/BlueSky-2026?logo=bluesky&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https://bsky.app/profile/8bitsian.bsky.social)](https://bsky.app/profile/8bitsoftware.bsky.social)
+[![Twitch Badge](https://img.shields.io/badge/Twitch-2026?logo=twitch&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https://www.twitch.tv/8bitsoftware)](https://www.twitch.tv/8bitsoftware)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-2026?logo=youtube&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https://www.youtube.com/8BitSoftware)](https://www.youtube.com/@8BitSoftware)<br/>
 
 ## 📊 Statistics
 [![GitHub Contribution](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8Bitsian&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Tech & Tools
 <!-- The World Wide Web Consortium (W3C) develops the HTML5 and CSS standards from https://www.w3.org/ -->
-> [!IMPORTANT]
-> [![C++ Badge](https://img.shields.io/badge/C%2B%2B-23?logo=cplusplus&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://isocpp.org/)
+> 🐧 I am a Linux Mint user with experience in C++, Java, and Python for backend development<br/>
+> ⚙️ My workflow consists of designing with Figma and Draw.io, developing with Geany or the JetBrains suite, and documenting with Obsidian and GitHub<br/>
+
+[![Linux Mint Badge](https://img.shields.io/badge/LinuxMint-2026?logo=linuxmint&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.linuxmint.com/)
+[![C++ Badge](https://img.shields.io/badge/C%2B%2B-23?logo=cplusplus&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://isocpp.org/)
 [![Java Badge](https://img.shields.io/badge/Java-25?logo=openjdk&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.java.com/)
 [![Python Badge](https://img.shields.io/badge/Python-3?logo=python&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.python.org/)
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-2026?logo=html5&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.w3.org/html/)
@@ -33,18 +41,10 @@
 [![Obsidian Badge](https://img.shields.io/badge/Obsidian-2026?logo=obsidian&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://obsidian.md/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-2026?logo=github&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://github.com/)
 [![Geany Badge](https://img.shields.io/badge/Geany-2026?logo=github&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.geany.org/)
-[![VSCodium Badge](https://img.shields.io/badge/VSCodium-2026?logo=vscodium&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://vscodium.com/)
 [![JetBrains Badge](https://img.shields.io/badge/JetBrains-2026?logo=jetbrains&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.jetbrains.com/)
 [![CLion Badge](https://img.shields.io/badge/CLion-2025?logo=clion&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.jetbrains.com/clion/)
 [![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-2025?logo=intellijidea&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.jetbrains.com/idea/)
 [![PyCharm Badge](https://img.shields.io/badge/PyCharm-2025?logo=pycharm&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.jetbrains.com/pycharm/)
-
-## 📧 Socials
-> [!IMPORTANT]
-> [![Stack Overflow Badge](https://img.shields.io/badge/StackOverflow-2026?logo=stackoverflow&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https://bsky.app/profile/8bitsian.bsky.social)](https://stackoverflow.com/users/32219858/8bitsian)
-[![Bluesky Badge](https://img.shields.io/badge/BlueSky-2026?logo=bluesky&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https://bsky.app/profile/8bitsian.bsky.social)](https://bsky.app/profile/8bitsoftware.bsky.social)
-[![Twitch Badge](https://img.shields.io/badge/Twitch-2026?logo=twitch&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https://www.twitch.tv/8bitsoftware)](https://www.twitch.tv/8bitsoftware)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-2026?logo=youtube&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https://www.youtube.com/8BitSoftware)](https://www.youtube.com/@8BitSoftware)
 
 ## 🎥 YouTube Videos
 <!-- YouTube Cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->

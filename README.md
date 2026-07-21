@@ -14,7 +14,7 @@
 
 ## 👩🏽‍💻 About Me
 > 🎓 Studying for an Associate's degree in Computer Programming<br/>
-> 🖥️ Currently working on my [fall courses](https://github.com/8Bitsian/Java-Fall-2026) for the 2026 semester<br/>
+> 🖥️ Currently working on my fall courses for the 2026 semester<br/>
 > 🫱🏻‍🫲🏽 I am always open to collaboration on new projects<br/><br/>
 [![my-website][0]](https://8bitsian.github.io/)
 [![stack-overflow][1]](https://stackoverflow.com/users/32219858/8bitsian)

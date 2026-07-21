@@ -1,22 +1,24 @@
-## 😁 Hello, I'm Imani Hollie (8BitSoftware)!
-🖥️ Working to become a full time Software Developer<br/>
-🎓 Studying for an Associate's degree in Computer Programming at Gwinnett Technical College<br/>
-🫱🏻‍🫲🏽 I am always open to collaboration on new projects! Constructive feedback on my code is greatly appreciated<br/>
-<!-- Badges from https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- https://techwithgen.github.io/profile-studio/ -->
+<!-- Profile based on https://techwithgen.github.io/profile-studio/ -->
+<!-- Get more cards from https://github.com/DenverCoder1/ -->
+<!-- Get more badges from https://github.com/simple-icons/simple-icons -->
 
-<!-- Badges from https://github.com/simple-icons/simple-icons -->
+# Imani Hollie (8BitSoftware)
+
+## 🤖 About Me
+🎓 Studying for an Associate's degree in Computer Programming<br/>
+🖥️ Currently working on [Repository_Name]() in C++<br/>
+🫱🏻‍🫲🏽 I am open to collaboration on new projects<br/>
+
+## 📧 Socials
 [![Stack Overflow Badge](https://img.shields.io/badge/StackOverflow-2026?logo=stackoverflow&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https://bsky.app/profile/8bitsian.bsky.social)](https://stackoverflow.com/users/32219858/8bitsian)
 [![Bluesky Badge](https://img.shields.io/badge/BlueSky-2026?logo=bluesky&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https://bsky.app/profile/8bitsian.bsky.social)](https://bsky.app/profile/8bitsoftware.bsky.social)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-2026?logo=youtube&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https://www.youtube.com/8BitSoftware)](https://www.youtube.com/@8BitSoftware)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-2026?logo=twitch&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https://www.twitch.tv/8bitsoftware)](https://www.twitch.tv/8bitsoftware)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-2026?logo=youtube&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&link=https://www.youtube.com/8BitSoftware)](https://www.youtube.com/@8BitSoftware)
 
 ## 📊 Statistics
-<!-- Get more cards from https://github.com/DenverCoder1 -->
 [![GitHub Contribution](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8Bitsian&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Tech & Tools
-<!-- Badges from https://github.com/simple-icons/simple-icons -->
 <!-- The World Wide Web Consortium (W3C) develops the HTML5 and CSS standards from https://www.w3.org/ -->
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-23?logo=cplusplus&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://isocpp.org/)
 [![Java Badge](https://img.shields.io/badge/Java-25?logo=openjdk&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59)](https://www.java.com/)
@@ -37,6 +39,7 @@
 
 ## 📹 YouTube Videos
 <!-- YouTube Cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
+
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Personal Practice (🐍 Python 3.14)](https://ytcards.demolab.com/?id=cj49SRKR098&title=Personal+Practice+%28%F0%9F%90%8D+Python+3.14%29&lang=en&timestamp=1769925407&background_color=%23ffde59&title_color=%238c52ff&stats_color=%238c52ff&max_title_lines=2&width=250&border_radius=5 "Personal Practice (🐍 Python 3.14)")](https://www.youtube.com/watch?v=cj49SRKR098#gh-dark-mode-only)[![Personal Practice (🐍 Python 3.14)](https://ytcards.demolab.com/?id=cj49SRKR098&title=Personal+Practice+%28%F0%9F%90%8D+Python+3.14%29&lang=en&timestamp=1769925407&background_color=%23ffde59&title_color=%238c52ff&stats_color=%238c52ff&max_title_lines=2&width=250&border_radius=5 "Personal Practice (🐍 Python 3.14)")](https://www.youtube.com/watch?v=cj49SRKR098#gh-light-mode-only)
 [![Class Assignments (☕ Java 26)](https://ytcards.demolab.com/?id=QTq5xdyDUyI&title=Class+Assignments+%28%E2%98%95+Java+26%29&lang=en&timestamp=1769147695&background_color=%23ffde59&title_color=%238c52ff&stats_color=%238c52ff&max_title_lines=2&width=250&border_radius=5 "Class Assignments (☕ Java 26)")](https://www.youtube.com/watch?v=QTq5xdyDUyI#gh-dark-mode-only)[![Class Assignments (☕ Java 26)](https://ytcards.demolab.com/?id=QTq5xdyDUyI&title=Class+Assignments+%28%E2%98%95+Java+26%29&lang=en&timestamp=1769147695&background_color=%23ffde59&title_color=%238c52ff&stats_color=%238c52ff&max_title_lines=2&width=250&border_radius=5 "Class Assignments (☕ Java 26)")](https://www.youtube.com/watch?v=QTq5xdyDUyI#gh-light-mode-only)
@@ -45,6 +48,7 @@
 
 ## 💽 Repositories
 <!-- Repository Cards from https://github.com/stats-organization/github-stats-extended -->
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/Java-Fall-2026&description_lines_count=2&theme=buefy)](https://github.com/8Bitsian/Java-Fall-2026)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/CPP-Fall-2026&description_lines_count=2&theme=buefy)](https://github.com/8Bitsian/CPP-Fall-2026)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/Java-Spring-2026&description_lines_count=2&theme=buefy)](https://github.com/8Bitsian/Java-Spring-2026)

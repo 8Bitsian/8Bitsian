@@ -3,7 +3,7 @@
 <!-- Get more badges from https://github.com/simple-icons/simple-icons -->
 <!-- Previous 📊 Statistics https://github.com/anuraghazra/github-readme-stats -->
 
-[![Banner](images/banner.png)](https://8bitsian.github.io/)
+[![Banner](images/Banner.png)](https://8bitsian.github.io/)
 
 <p align="center">
   <b align="center">An aspiring full-stack software developer in the making.</b><br/>

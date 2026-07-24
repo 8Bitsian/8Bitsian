@@ -3,9 +3,7 @@
 <!-- Get more badges from https://github.com/simple-icons/simple-icons -->
 <!-- Previous 📊 Statistics https://github.com/anuraghazra/github-readme-stats -->
 
-<h1 align="center">
-  <span style="color:#ffde59;">Imani Hollie (8BitSoftware)</span>
-</h1>
+[![Banner](images/banner.png)](https://8bitsian.github.io/)
 
 <p align="center">
   <b align="center">An aspiring full-stack software developer in the making.</b><br/>

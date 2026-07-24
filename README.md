@@ -5,11 +5,6 @@
 
 [![Banner](images/Banner.png)](https://8bitsian.github.io/)
 
-<p align="center">
-  <b align="center">An aspiring full-stack software developer in the making.</b><br/>
-  <i>Share Ideas. Share Processes. Share Sources.</i>
-</p>
-
 ## 👩🏽‍💻 About Me
 > 🎓 Studying for an Associate's degree in Computer Programming<br/>
 > 🖥️ Currently working on my fall courses for the 2026 semester<br/>

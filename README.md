@@ -7,7 +7,7 @@
 
 <p align="center">
   <b align="center">An aspiring full-stack software developer in the making.</b><br/>
-  <i>Share Ideas. Share Process. Share Sources.</i>
+  <i>Share Ideas. Share Processes. Share Sources.</i>
 </p>
 
 ## 👩🏽‍💻 About Me

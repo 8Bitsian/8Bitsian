@@ -1,39 +1,26 @@
 <!-- Get more cards from https://github.com/DenverCoder1/ -->
-<!-- Get badges from https://shields.io/ -->
-<!-- Get custom badges from https://custom-icon-badges.demolab.com/ -->
+<!-- Get badges from https://shields.io/ | Start link with: https://img.shields.io/badge/ -->
 <!-- Get logos from https://simpleicons.org/ -->
+<!-- Get custom badges from https://custom-icon-badges.demolab.com/ | Start link with: https://custom-icon-badges.demolab.com/badge/ -->
 
 [![Banner](images/Banner.png)](https://8bitsian.github.io/)
 
 ## 👩🏽‍💻 About Me
 > 🎓 Studying for an Associate's degree in Computer Programming<br/>
 > 🖥️ Currently working on my fall courses for the 2026 semester<br/>
-> 🫱🏻‍🫲🏽 I am always open to collaboration on new projects<br/><br/>
-[![my-website][0]](https://8bitsian.github.io/)
+> 🫱🏻‍🫲🏽 I am always open to collaboration on new projects</br></br>
+> [![my-website][0]](https://8bitsian.github.io/)
 [![stack-overflow][1]](https://stackoverflow.com/users/32219858/8bitsian)
 [![bluesky][2]](https://bsky.app/profile/8bitsoftware.bsky.social)
 [![twitch][3]](https://www.twitch.tv/8bitsoftware)
 [![youtube][4]](https://www.youtube.com/@8BitSoftware)<br/>
-[![total contributions][5]][5]
-[![last commit][6]][6]
-[![github streak][7]][7]
-
-<!--
-Social Media
-0  My Website
-1  Stack Overflow
-2  Bluesky
-3  Twitch
-4  YouTube
-Statistics 
-5  Repo Size Badge
-6  GitHub Forks
-7  GitHub Stars
-8  GitHub Watchers (Eyes)
-9  Total Contributions
-10  Total Commit
-11  Last Commit
--->
+![repo size][5]
+![repo forks][6]
+![repo stars][7]
+![repo eyes][8]
+[![total contributions][9]][9]
+[![last commit][8][8]
+[![github streak][9]][9]
 
 ## 🛠️ Tech & Tools
 <!-- The World Wide Web Consortium (W3C) develops the HTML5 and CSS standards from https://www.w3.org/ -->
@@ -45,8 +32,6 @@ Statistics
 [![HTML5 Badge][12]](https://www.w3.org/html/)
 [![CSS Badge][13]](https://www.w3.org/Style/CSS/Overview.en.html)
 [![JavaScript Badge][14]](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-![Geany Badge][29]
 
 <!--
 Operating Systems
@@ -113,7 +98,30 @@ Languages
 [2]: https://img.shields.io/badge/BlueSky-2026?logo=bluesky&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
 [3]: https://img.shields.io/badge/Twitch-2026?logo=twitch&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
 [4]: https://img.shields.io/badge/YouTube-2026?logo=youtube&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[5]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&style=flat&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3D8Bitsian%26type%3Djson
+[5]: https://custom-icon-badges.demolab.com/github/repo-size/8Bitsian/8Bitsian?style=flat&logo=repo&logoColor=FFFFF0&label=Repository%20Size&labelColor=8C52FF&color=FFDE59
+[6]: https://custom-icon-badges.demolab.com/github/repo-forked/8Bitsian/8Bitsian?style=flat&&logo=repo-forked&logoColor=FFFFF0label=Forks&labelColor=8C52FF&color=FFDE59
+
+
+<!--
+Statistics 
+6  GitHub Forks
+7  GitHub Stars
+8  GitHub Watchers (Eyes)
+9  Total Contributions
+10 Last Commit
+11 GitHub Streak
+-->
+
+[temp-color]: logoColor=FFFFF0 labelColor=8C52FF color=FFDE59
+[temp]: https://custom-icon-badges.demolab.com/badge/
+
+[6]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&style=flat&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3D8Bitsian%26type%3Djson
+
+
+[2]: https://img.shields.io/github/forks/8Bitsian/8Bitsian.github.io?style=flat&label=Forks&labelColor=8C52FF&color=FFDE59
+[3]: https://img.shields.io/github/stars/8Bitsian/8Bitsian.github.io?style=flat&label=Stars&labelColor=8C52FF&color=FFDE59
+[4]: https://img.shields.io/github/watchers/8Bitsian/8Bitsian.github.io?style=flat&label=Watchers&labelColor=8C52FF&color=FFDE59
+
 [6]: https://custom-icon-badges.demolab.com/github/last-commit/8Bitsian/custom-icon-badges?logo=history&style=flat&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
 [7]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&style=flat&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3D8Bitsian%26type%3Djson
 [8]: https://img.shields.io/badge/Linux_Mint-2026?logo=linuxmint&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
@@ -138,4 +146,4 @@ Languages
 [26]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/CPP-Spring-2026&description_lines_count=2&theme=buefy
 [27]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/SYST-Spring-2026&description_lines_count=2&theme=buefy
 [28]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/PDD-Spring-2024&description_lines_count=2&theme=buefy
-[29]: https://custom-icon-badges.demolab.com/badge/Geany-2026?style=flat&logo=geany&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+

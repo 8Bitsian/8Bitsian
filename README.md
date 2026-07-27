@@ -1,5 +1,6 @@
 <!-- Get more cards from https://github.com/DenverCoder1/ -->
-<!-- Get more badges from https://shields.io/ -->
+<!-- Get badges from https://shields.io/ -->
+<!-- Get custom badges from https://custom-icon-badges.demolab.com/ -->
 <!-- Get logos from https://simpleicons.org/ -->
 
 [![Banner](images/Banner.png)](https://8bitsian.github.io/)
@@ -17,6 +18,23 @@
 [![last commit][6]][6]
 [![github streak][7]][7]
 
+<!--
+Social Media
+0  My Website
+1  Stack Overflow
+2  Bluesky
+3  Twitch
+4  YouTube
+Statistics 
+5  Repo Size Badge
+6  GitHub Forks
+7  GitHub Stars
+8  GitHub Watchers (Eyes)
+9  Total Contributions
+10  Total Commit
+11  Last Commit
+-->
+
 ## 🛠️ Tech & Tools
 <!-- The World Wide Web Consortium (W3C) develops the HTML5 and CSS standards from https://www.w3.org/ -->
 > 🐧 I am a Linux Mint user with experience in C++, Java, and Python for backend development, and minor experience with HTML5, CSS3, and JavaScript for web development<br/><br/>
@@ -28,6 +46,27 @@
 [![CSS Badge][13]](https://www.w3.org/Style/CSS/Overview.en.html)
 [![JavaScript Badge][14]](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+![Geany Badge][29]
+
+<!--
+Operating Systems
+12  Linux Mint OS
+13  Windows OS
+Software
+14  GitHub
+15  GitHub Pages
+16  GitHub Actions
+17  Figma
+18  Draw.io
+19  Obsidian
+20  Geany
+21  VSCodium
+22  JetBrains Suite
+23  CLion
+24  IntelliJ
+25  PyCharm
+-->
+
 > ⚙️ My workflow consists of designing with Figma and Draw.io, developing with Geany or the JetBrains suite, and documenting with Obsidian and GitHub<br/><br/>
 [![Figma Badge][15]](https://www.figma.com/)
 [![Draw.io Badge][16]](https://app.diagrams.net/)
@@ -37,6 +76,19 @@
 [![IntelliJ Badge][20]](https://www.jetbrains.com/idea/)
 [![PyCharm Badge][21]](https://www.jetbrains.com/pycharm/)
 [![Obsidian Badge][22]](https://obsidian.md/)
+
+<!--
+Languages
+26  Java
+27  C++
+28  Python
+29  Ruby
+30  HTML5
+31  CSS
+32  JavaScript
+33  TypeScript
+34  Dockerfile
+-->
 
 ## 🎥 YouTube Videos
 <!-- YouTube Cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
@@ -79,9 +131,11 @@
 [20]: https://img.shields.io/badge/IntelliJ-2025?logo=intellijidea&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
 [21]: https://img.shields.io/badge/PyCharm-2025?logo=pycharm&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
 [22]: https://img.shields.io/badge/Obsidian-2026?logo=obsidian&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+<!-- Repositories -->
 [23]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/Java-Fall-2026&description_lines_count=2&theme=buefy
 [24]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/CPP-Fall-2026&description_lines_count=2&theme=buefy
 [25]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/Java-Spring-2026&description_lines_count=2&theme=buefy
 [26]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/CPP-Spring-2026&description_lines_count=2&theme=buefy
 [27]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/SYST-Spring-2026&description_lines_count=2&theme=buefy
 [28]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/PDD-Spring-2024&description_lines_count=2&theme=buefy
+[29]: https://custom-icon-badges.demolab.com/badge/Geany-2026?style=flat&logo=geany&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59

@@ -1,7 +1,6 @@
-<!-- Profile based on https://techwithgen.github.io/profile-studio/ -->
 <!-- Get more cards from https://github.com/DenverCoder1/ -->
-<!-- Get more badges from https://github.com/simple-icons/simple-icons -->
-<!-- Previous 📊 Statistics https://github.com/anuraghazra/github-readme-stats -->
+<!-- Get more badges from https://shields.io/ -->
+<!-- Get logos from https://simpleicons.org/ -->
 
 [![Banner](images/Banner.png)](https://8bitsian.github.io/)
 

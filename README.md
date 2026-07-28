@@ -17,10 +17,10 @@
 ![repo size][5]
 ![repo forks][6]
 ![repo stars][7]
-![repo eyes][8]
-[![total contributions][9]][9]
-[![last commit][10][10]
-[![github streak][11]][11]
+![repo eyes][8]<br/>
+![total commit][9]
+![last commit][10]
+![github streak][11]
 
 ## 🛠️ Tech & Tools
 <!-- The World Wide Web Consortium (W3C) develops the HTML5 and CSS standards from https://www.w3.org/ -->
@@ -74,82 +74,35 @@
 [2]: https://img.shields.io/badge/BlueSky-2026?logo=bluesky&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
 [3]: https://img.shields.io/badge/Twitch-2026?logo=twitch&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
 [4]: https://img.shields.io/badge/YouTube-2026?logo=youtube&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[5]: https://custom-icon-badges.demolab.com/github/repo-size/8Bitsian/8Bitsian?style=flat&logo=repo&logoColor=FFFFF0&label=Repository%20Size&labelColor=8C52FF&color=FFDE59
+
 <!-- Statistics -->
-[6]: https://custom-icon-badges.demolab.com/github/repo-forked/8Bitsian/8Bitsian?style=flat&&logo=repo-forked&logoColor=FFFFF0label=Forks&labelColor=8C52FF&color=FFDE59
-[7]: https://custom-icon-badges.demolab.com/github/star-fill/8Bitsian/8Bitsian?style=flat&&logo=star-fill&logoColor=FFFFF0label=Stars&labelColor=8C52FF&color=FFDE59
-[8]: https://custom-icon-badges.demolab.com/github/watchers/8Bitsian/8Bitsian.github.io?style=flat&label=Watchers&labelColor=8C52FF&color=FFDE59
-[9]:
-[10]:
-[11]:
-
-<!--
-  7  GitHub Stars
-  8  GitHub Watchers (Eyes)
-  9  Total Contributions
-  10 Last Commit
-  11 GitHub Streak
--->
+[5]: https://custom-icon-badges.demolab.com/github/repo-size/8Bitsian/8Bitsian?style=flat&logo=repo&logoColor=FFFFF0&label=Repository%20Size&labelColor=8C52FF&color=FFDE59
+[6]: https://custom-icon-badges.demolab.com/github/forks/8Bitsian/8Bitsian?style=flat&logo=repo-forked&logoColor=FFFFF0&label=Forks&labelColor=8C52FF&color=FFDE59
+[7]: https://custom-icon-badges.demolab.com/github/stars/8Bitsian/8Bitsian?style=flat&logo=star&logoColor=FFFFF0&label=Stars&labelColor=8C52FF&color=FFDE59
+[8]: https://custom-icon-badges.demolab.com/github/watchers/8Bitsian/8Bitsian.github.io?style=flat&logo=eye&logoColor=FFFFF0&label=Watchers&labelColor=8C52FF&color=FFDE59
+[9]: https://custom-icon-badges.demolab.com/github/commit-activity/t/8Bitsian/8Bitsian?style=flat&logo=git-commit&logoColor=FFFFF0&label=Total%20Commits&labelColor=8C52FF&color=FFDE59
+[10]: https://custom-icon-badges.demolab.com/github/last-commit/8Bitsian/8Bitsian?display_timestamp=committer&style=flat&logo=git-merge&logoColor=FFFFF0&label=Last%20Commit&labelColor=8C52FF&color=FFDE59
 
 
+[11]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&style=flat&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3D8Bitsian%26type%3Djson
 
-<!-- Operating Systems
-  12  Linux Mint OS
-  13  Windows OS
--->
+<!-- Operating Systems -->
+[12]: https://img.shields.io/badge/Linux_Mint-2026?logo=linuxmint&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[13]: Windows OS
 
 <!-- Software -->
-
-<!-- Programming Languages -->
-
-
-<!--
-[temp-color]: logoColor=FFFFF0 labelColor=8C52FF color=FFDE59
-[temp-source]: https://custom-icon-badges.demolab.com/badge/
-Software
-  14  Figma
-  15  Draw.io
-  16  Obsidian
-  17  Geany
-  18  GitHub
-  19  GitHub Pages
-  20  GitHub Actions
-  21  GitHub Codespaces
-  22  JetBrains Suite
-  23  CLion
-  24  IntelliJ
-  25  PyCharm
-Languages
-  26  C++
-  27  Java
-  28  Python
-  29  HTML5
-  30  CSS
-  31  JavaScript
--->
-
-
-
-
-[2]: https://img.shields.io/github/forks/8Bitsian/8Bitsian.github.io?style=flat&label=Forks&labelColor=8C52FF&color=FFDE59
-[3]: https://img.shields.io/github/stars/8Bitsian/8Bitsian.github.io?style=flat&label=Stars&labelColor=8C52FF&color=FFDE59
-[4]: https://img.shields.io/github/watchers/8Bitsian/8Bitsian.github.io?style=flat&label=Watchers&labelColor=8C52FF&color=FFDE59
-
-
-
-[22]: https://custom-icon-badges.demolab.com/badge/Geany-2026?style=flat&logo=geany2&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-
-[6]: https://custom-icon-badges.demolab.com/github/last-commit/8Bitsian/custom-icon-badges?logo=history&style=flat&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[7]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&style=flat&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3D8Bitsian%26type%3Djson
-[8]: https://img.shields.io/badge/Linux_Mint-2026?logo=linuxmint&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-
-[15]: https://img.shields.io/badge/Figma-2026?logo=figma&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[16]: https://img.shields.io/badge/Draw.io-2026?logo=diagramsdotnet&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[18]: https://img.shields.io/badge/JetBrains-2026?logo=jetbrains&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[19]: https://img.shields.io/badge/CLion-2025?logo=clion&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[20]: https://img.shields.io/badge/IntelliJ-2025?logo=intellijidea&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[21]: https://img.shields.io/badge/PyCharm-2025?logo=pycharm&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[22]: https://img.shields.io/badge/Obsidian-2026?logo=obsidian&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[14]: https://img.shields.io/badge/Figma-2026?logo=figma&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[15]: https://img.shields.io/badge/Draw.io-2026?logo=diagramsdotnet&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[16]: https://img.shields.io/badge/Obsidian-2026?logo=obsidian&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[17]: https://custom-icon-badges.demolab.com/badge/Geany-2026?style=flat&logo=geany2&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[18]: GitHub
+[19]: GitHub Codespaces
+[20]: GitHub Actions
+[21]: GitHub Pages
+[22]: https://img.shields.io/badge/JetBrains-2026?logo=jetbrains&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[23]: https://img.shields.io/badge/CLion-2025?logo=clion&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[24]: https://img.shields.io/badge/IntelliJ-2025?logo=intellijidea&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[25]: https://img.shields.io/badge/PyCharm-2025?logo=pycharm&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
 
 <!-- Programming Languages -->
 [26]: https://img.shields.io/badge/C%2B%2B-23?logo=cplusplus&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59

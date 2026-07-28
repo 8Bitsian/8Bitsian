@@ -32,11 +32,11 @@
 [![Figma Badge][14]](https://www.figma.com/)
 [![Draw.io Badge][15]](https://app.diagrams.net/)
 [![Obsidian Badge][16]](https://obsidian.md/)
-[![Geany Badge][17](https://www.geany.org/)
+[![Geany Badge][17]](https://www.geany.org/)<br/>
 ![GitHub Badge][18]
 ![GitHub Pages Badge][19]
 ![GitHub Actions Badge][20]
-![GitHub Codespaces Badge][21]
+![GitHub Codespaces Badge][21]<br/>
 [![JetBrains Badge][22]](https://www.jetbrains.com/)
 [![CLion Badge][23]](https://www.jetbrains.com/clion/)
 [![IntelliJ Badge][24]](https://www.jetbrains.com/idea/)
@@ -81,24 +81,22 @@
 [7]: https://custom-icon-badges.demolab.com/github/stars/8Bitsian/8Bitsian?style=flat&logo=star&logoColor=FFFFF0&label=Stars&labelColor=8C52FF&color=FFDE59
 [8]: https://custom-icon-badges.demolab.com/github/watchers/8Bitsian/8Bitsian.github.io?style=flat&logo=eye&logoColor=FFFFF0&label=Watchers&labelColor=8C52FF&color=FFDE59
 [9]: https://custom-icon-badges.demolab.com/github/commit-activity/t/8Bitsian/8Bitsian?style=flat&logo=git-commit&logoColor=FFFFF0&label=Total%20Commits&labelColor=8C52FF&color=FFDE59
-[10]: https://custom-icon-badges.demolab.com/github/last-commit/8Bitsian/8Bitsian?display_timestamp=committer&style=flat&logo=git-merge&logoColor=FFFFF0&label=Last%20Commit&labelColor=8C52FF&color=FFDE59
-
-
-[11]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&style=flat&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3D8Bitsian%26type%3Djson
+[10]: https://custom-icon-badges.demolab.com/github/last-commit/8Bitsian/8Bitsian?display_timestamp=author&style=flat&logo=git-merge&logoColor=FFFFF0&label=Last%20Commit&labelColor=8C52FF&color=FFDE59
+[11]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=FFFFF0&color=FFDE59&label=Github%20Streak&labelColor=8C52FF&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3D8Bitsian%26type%3Djson
 
 <!-- Operating Systems -->
-[12]: https://img.shields.io/badge/Linux_Mint-2026?logo=linuxmint&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[13]: Windows OS
+[12]: https://img.shields.io/badge/Linux_Mint-2026?logo=linuxmint&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[13]: https://custom-icon-badges.demolab.com/badge/Windows-2026?style=flat&logo=windows11&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
 
 <!-- Software -->
-[14]: https://img.shields.io/badge/Figma-2026?logo=figma&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[15]: https://img.shields.io/badge/Draw.io-2026?logo=diagramsdotnet&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[16]: https://img.shields.io/badge/Obsidian-2026?logo=obsidian&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[14]: https://img.shields.io/badge/Figma-2026?logo=figma&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[15]: https://img.shields.io/badge/Draw.io-2026?logo=diagramsdotnet&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[16]: https://img.shields.io/badge/Obsidian-2026?logo=obsidian&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
 [17]: https://custom-icon-badges.demolab.com/badge/Geany-2026?style=flat&logo=geany2&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[18]: GitHub
-[19]: GitHub Codespaces
-[20]: GitHub Actions
-[21]: GitHub Pages
+[18]: https://img.shields.io/badge/GitHub-2026?logo=github&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[19]: https://custom-icon-badges.demolab.com/badge/Codespaces-2026?style=flat&logo=code&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[20]: https://img.shields.io/badge/Actions-2026?logo=githubactions&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[21]: https://img.shields.io/badge/Pages-2026?logo=githubpages&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
 [22]: https://img.shields.io/badge/JetBrains-2026?logo=jetbrains&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
 [23]: https://img.shields.io/badge/CLion-2025?logo=clion&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
 [24]: https://img.shields.io/badge/IntelliJ-2025?logo=intellijidea&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59

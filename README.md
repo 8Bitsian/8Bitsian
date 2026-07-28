@@ -32,23 +32,24 @@
 [![Figma Badge][14]](https://www.figma.com/)
 [![Draw.io Badge][15]](https://app.diagrams.net/)
 [![Obsidian Badge][16]](https://obsidian.md/)
-[![Geany Badge][17]](https://www.geany.org/)<br/>
-![GitHub Badge][18]
-![GitHub Pages Badge][19]
-![GitHub Actions Badge][20]
-![GitHub Codespaces Badge][21]<br/>
-[![JetBrains Badge][22]](https://www.jetbrains.com/)
-[![CLion Badge][23]](https://www.jetbrains.com/clion/)
-[![IntelliJ Badge][24]](https://www.jetbrains.com/idea/)
-[![PyCharm Badge][25]](https://www.jetbrains.com/pycharm/)<br/><br/>
+[![Geany Badge][17]](https://www.geany.org/)
+[![VSCodium Badge][18]](https://vscodium.com/)<br/>
+![GitHub Badge][19]
+![GitHub Pages Badge][20]
+![GitHub Actions Badge][21]
+![GitHub Codespaces Badge][22]<br/>
+[![JetBrains Badge][23]](https://www.jetbrains.com/)
+[![CLion Badge][24]](https://www.jetbrains.com/clion/)
+[![IntelliJ Badge][25]](https://www.jetbrains.com/idea/)
+[![PyCharm Badge][26]](https://www.jetbrains.com/pycharm/)<br/><br/>
 
 > 🗣️ C++, Java, and Python for backend development, and minor experience with HTML5, CSS3, and JavaScript for web development<br/><br/>
-> [![C++ Badge][26]](https://isocpp.org/)
-[![Java Badge][27]](https://www.java.com/)
-[![Python Badge][28]](https://www.python.org/)
-[![HTML5 Badge][29]](https://www.w3.org/html/)
-[![CSS Badge][30]](https://www.w3.org/Style/CSS/Overview.en.html)
-[![JavaScript Badge][31]](https://developer.mozilla.org/en-US/docs/Web/JavaScript)<br/><br/>
+> [![C++ Badge][27]](https://isocpp.org/)
+[![Java Badge][28]](https://www.java.com/)
+[![Python Badge][29]](https://www.python.org/)
+[![HTML5 Badge][30]](https://www.w3.org/html/)
+[![CSS Badge][31]](https://www.w3.org/Style/CSS/Overview.en.html)
+[![JavaScript Badge][32]](https://developer.mozilla.org/en-US/docs/Web/JavaScript)<br/><br/>
 
 ## 🎥 YouTube Videos
 <!-- YouTube Cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
@@ -60,12 +61,12 @@
 
 ## 💽 Repositories
 <!-- Repository Cards from https://github.com/stats-organization/github-stats-extended -->
-[![JavaII_Repo][32]](https://github.com/8Bitsian/Java-Fall-2026)
-[![CPPII Repo][33]](https://github.com/8Bitsian/CPP-Fall-2026)
-[![JavaI Repo][34]](https://github.com/8Bitsian/Java-Spring-2026)
-[![CPPI Repo][35]](https://github.com/8Bitsian/CPP-Spring-2026)
-[![SYST Repo][36]](https://github.com/8Bitsian/SYST-Spring-2026)
-[![PDD Repo][37]](https://github.com/8Bitsian/PDD-Spring-2024)
+[![JavaII_Repo][33]](https://github.com/8Bitsian/Java-Fall-2026)
+[![CPPII Repo][34]](https://github.com/8Bitsian/CPP-Fall-2026)
+[![JavaI Repo][35]](https://github.com/8Bitsian/Java-Spring-2026)
+[![CPPI Repo][36]](https://github.com/8Bitsian/CPP-Spring-2026)
+[![SYST Repo][37]](https://github.com/8Bitsian/SYST-Spring-2026)
+[![PDD Repo][38]](https://github.com/8Bitsian/PDD-Spring-2024)
 
 <!-- Links placed here for the file's readability -->
 <!-- Social Media -->
@@ -93,27 +94,28 @@
 [15]: https://img.shields.io/badge/Draw.io-2026?logo=diagramsdotnet&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
 [16]: https://img.shields.io/badge/Obsidian-2026?logo=obsidian&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
 [17]: https://custom-icon-badges.demolab.com/badge/Geany-2026?style=flat&logo=geany2&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[18]: https://img.shields.io/badge/GitHub-2026?logo=github&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[19]: https://custom-icon-badges.demolab.com/badge/Codespaces-2026?style=flat&logo=code&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[20]: https://img.shields.io/badge/Actions-2026?logo=githubactions&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[21]: https://img.shields.io/badge/Pages-2026?logo=githubpages&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[22]: https://img.shields.io/badge/JetBrains-2026?logo=jetbrains&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[23]: https://img.shields.io/badge/CLion-2025?logo=clion&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[24]: https://img.shields.io/badge/IntelliJ-2025?logo=intellijidea&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[25]: https://img.shields.io/badge/PyCharm-2025?logo=pycharm&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[18]: https://img.shields.io/badge/VSCodium-2026?logo=vscodium&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[19]: https://img.shields.io/badge/GitHub-2026?logo=github&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[20]: https://custom-icon-badges.demolab.com/badge/Codespaces-2026?style=flat&logo=code&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[21]: https://img.shields.io/badge/Actions-2026?logo=githubactions&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[22]: https://img.shields.io/badge/Pages-2026?logo=githubpages&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[23]: https://img.shields.io/badge/JetBrains-2026?logo=jetbrains&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[24]: https://img.shields.io/badge/CLion-2025?logo=clion&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[25]: https://img.shields.io/badge/IntelliJ-2025?logo=intellijidea&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[26]: https://img.shields.io/badge/PyCharm-2025?logo=pycharm&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
 
 <!-- Programming Languages -->
-[26]: https://img.shields.io/badge/C%2B%2B-23?logo=cplusplus&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[27]: https://img.shields.io/badge/Java-25?logo=openjdk&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[28]: https://img.shields.io/badge/Python-3?logo=python&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[29]: https://img.shields.io/badge/HTML5-2026?logo=html5&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[30]: https://img.shields.io/badge/CSS-2026?logo=css&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[31]: https://img.shields.io/badge/JavaScript-2026?logo=javascript&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[27]: https://img.shields.io/badge/C%2B%2B-23?logo=cplusplus&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[28]: https://img.shields.io/badge/Java-25?logo=openjdk&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[29]: https://img.shields.io/badge/Python-3?logo=python&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[30]: https://img.shields.io/badge/HTML5-2026?logo=html5&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[31]: https://img.shields.io/badge/CSS-2026?logo=css&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[32]: https://img.shields.io/badge/JavaScript-2026?logo=javascript&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
 
 <!-- Repositories -->
-[32]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/Java-Fall-2026&description_lines_count=2&theme=buefy
-[33]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/CPP-Fall-2026&description_lines_count=2&theme=buefy
-[34]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/Java-Spring-2026&description_lines_count=2&theme=buefy
-[35]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/CPP-Spring-2026&description_lines_count=2&theme=buefy
-[36]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/SYST-Spring-2026&description_lines_count=2&theme=buefy
-[37]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/PDD-Spring-2024&description_lines_count=2&theme=buefy
+[33]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/Java-Fall-2026&description_lines_count=2&theme=buefy
+[34]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/CPP-Fall-2026&description_lines_count=2&theme=buefy
+[35]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/Java-Spring-2026&description_lines_count=2&theme=buefy
+[36]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/CPP-Spring-2026&description_lines_count=2&theme=buefy
+[37]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/SYST-Spring-2026&description_lines_count=2&theme=buefy
+[38]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/PDD-Spring-2024&description_lines_count=2&theme=buefy

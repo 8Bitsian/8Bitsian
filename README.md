@@ -69,7 +69,7 @@
 
 <!-- Links placed here for the file's readability -->
 <!-- Social Media -->
-[0]: https://img.shields.io/badge/My_Website-2026?logo=firefox&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[0]: https://img.shields.io/badge/My_Website-2026?logo=firefoxbrowser&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
 [1]: https://img.shields.io/badge/Stack_Overflow-2026?logo=stackoverflow&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
 [2]: https://img.shields.io/badge/BlueSky-2026?logo=bluesky&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
 [3]: https://img.shields.io/badge/Twitch-2026?logo=twitch&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59

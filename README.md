@@ -79,7 +79,7 @@
 [5]: https://custom-icon-badges.demolab.com/github/repo-size/8Bitsian/8Bitsian?style=flat&logo=repo&logoColor=FFFFF0&label=Repository%20Size&labelColor=8C52FF&color=FFDE59
 [6]: https://custom-icon-badges.demolab.com/github/forks/8Bitsian/8Bitsian?style=flat&logo=repo-forked&logoColor=FFFFF0&label=Forks&labelColor=8C52FF&color=FFDE59
 [7]: https://custom-icon-badges.demolab.com/github/stars/8Bitsian/8Bitsian?style=flat&logo=star&logoColor=FFFFF0&label=Stars&labelColor=8C52FF&color=FFDE59
-[8]: https://custom-icon-badges.demolab.com/github/watchers/8Bitsian/8Bitsian.github.io?style=flat&logo=eye&logoColor=FFFFF0&label=Watchers&labelColor=8C52FF&color=FFDE59
+[8]: https://custom-icon-badges.demolab.com/github/watchers/8Bitsian/8Bitsian?style=flat&logo=eye&logoColor=FFFFF0&label=Watchers&labelColor=8C52FF&color=FFDE59
 [9]: https://custom-icon-badges.demolab.com/github/commit-activity/t/8Bitsian/8Bitsian?style=flat&logo=git-commit&logoColor=FFFFF0&label=Total%20Commits&labelColor=8C52FF&color=FFDE59
 [10]: https://custom-icon-badges.demolab.com/github/last-commit/8Bitsian/8Bitsian?display_timestamp=author&style=flat&logo=git-merge&logoColor=FFFFF0&label=Last%20Commit&labelColor=8C52FF&color=FFDE59
 [11]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=FFFFF0&color=FFDE59&label=Github%20Streak&labelColor=8C52FF&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3D8Bitsian%26type%3Djson

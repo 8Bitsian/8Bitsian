@@ -63,6 +63,7 @@
 <!-- Repository Cards from https://github.com/stats-organization/github-stats-extended -->
 [![JavaII_Repo][33]](https://github.com/8Bitsian/Java-Fall-2026)
 [![CPPII Repo][34]](https://github.com/8Bitsian/CPP-Fall-2026)
+[![OSC Repo][39]](https://github.com/8Bitsian/OSC-Fall-2026)
 [![JavaI Repo][35]](https://github.com/8Bitsian/Java-Spring-2026)
 [![CPPI Repo][36]](https://github.com/8Bitsian/CPP-Spring-2026)
 [![SYST Repo][37]](https://github.com/8Bitsian/SYST-Spring-2026)
@@ -119,3 +120,4 @@
 [36]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/CPP-Spring-2026&description_lines_count=2&theme=buefy
 [37]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/SYST-Spring-2026&description_lines_count=2&theme=buefy
 [38]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/PDD-Spring-2024&description_lines_count=2&theme=buefy
+[39]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/OSC-Fall-2026&description_lines_count=2&theme=buefy

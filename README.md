@@ -1,6 +1,6 @@
 <!-- Get more cards from https://github.com/DenverCoder1/ -->
 <!-- Get badges from https://shields.io/ | Start link with: https://img.shields.io/badge/ -->
-<!-- Get logos from https://simpleicons.org/ -->
+<!-- Get logos from https://simpleicons.org/ | https://primer.style/octicons/ | https://feathericons.com/ -->
 <!-- Get custom badges from https://custom-icon-badges.demolab.com/ | Start link with: https://custom-icon-badges.demolab.com/badge/ -->
 
 [![Banner](images/Banner.png)](https://8bitsian.github.io/)
@@ -70,6 +70,7 @@
 [![PDD Repo][38]](https://github.com/8Bitsian/PDD-Spring-2024)
 
 <!-- Links placed here for the file's readability -->
+
 <!-- Social Media -->
 [0]: https://img.shields.io/badge/My_Website-2026?logo=firefoxbrowser&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
 [1]: https://img.shields.io/badge/Stack_Overflow-2026?logo=stackoverflow&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59

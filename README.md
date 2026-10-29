@@ -22,34 +22,38 @@
 ![last commit][10]
 ![github streak][11]
 
-## 🛠️ Tech & Tools
-<!-- The World Wide Web Consortium (W3C) develops the HTML5 and CSS standards from https://www.w3.org/ -->
-> 🐧 I am a Linux Mint user with experience in Windows 11 and 10 operating systems.</br></br>
-> [![Linux Mint Badge][12]](https://www.linuxmint.com/)
-![Windows 11 Badge][13]
+## 🛠️Tech & Tools
+> 🐧 I use Linux Mint and have experience with Windows 11 and Windows 10 operating systems.</br></br>
+> [![Linux_Mint][12]](https://www.linuxmint.com/)
+[![Windows 11][13]](https://www.microsoft.com/en-us/windows/)
 
-> ⚙️ My workflow consists of designing with Figma and Draw.io, developing with Geany, GitHub Codespaces, or the JetBrains suite, and documenting with Obsidian and GitHub. I also use GitHub Actions and Pages.<br/><br/>
+> ⚙️ My workflow includes designing with Figma and Draw.io; developing with Geany, VSCodium, and the JetBrains suite; and documenting with Obsidian and GitHub.</br></br>
 [![Figma Badge][14]](https://www.figma.com/)
 [![Draw.io Badge][15]](https://app.diagrams.net/)
 [![Obsidian Badge][16]](https://obsidian.md/)
-[![Geany Badge][17]](https://www.geany.org/)
-[![VSCodium Badge][18]](https://vscodium.com/)<br/>
-![GitHub Badge][19]
-![GitHub Pages Badge][20]
-![GitHub Actions Badge][21]
-![GitHub Codespaces Badge][22]<br/>
+[![Git Badge][17]](https://git-scm.com/)
+![GitHub Badge][18]
+![Bash_Shell_Badge][19]
+![PowerShell_Badge][20]
+[![Geany Badge][21]](https://www.geany.org/)
+[![VSCodium Badge][22]](https://vscodium.com/)
 [![JetBrains Badge][23]](https://www.jetbrains.com/)
-[![CLion Badge][24]](https://www.jetbrains.com/clion/)
-[![IntelliJ Badge][25]](https://www.jetbrains.com/idea/)
-[![PyCharm Badge][26]](https://www.jetbrains.com/pycharm/)<br/><br/>
 
-> 🗣️ C++, Java, and Python for backend development, and minor experience with HTML5, CSS3, and JavaScript for web development<br/><br/>
-> [![C++ Badge][27]](https://isocpp.org/)
-[![Java Badge][28]](https://www.java.com/)
-[![Python Badge][29]](https://www.python.org/)
-[![HTML5 Badge][30]](https://www.w3.org/html/)
-[![CSS Badge][31]](https://www.w3.org/Style/CSS/Overview.en.html)
-[![JavaScript Badge][32]](https://developer.mozilla.org/en-US/docs/Web/JavaScript)<br/><br/>
+> 👩🏽‍💻 I work across the stack. My front-end technologies include HTML, CSS, JavaScript, and React; my back-end languages include Python, Rust, C++, C#, Java, and PHP. I also have some experience with MySQL, SQLite, MongoDB, and PostgreSQL.<br/><br/>
+> [![HTML_Badge][HTML]](https://html.spec.whatwg.org/multipage/)
+[![CSS_Badge][CSS]](https://www.w3.org/Style/CSS/)
+[![JavaScript_Badge][JS]](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
+[![React_Badge][React]](https://react.dev/versions)<br/>
+> [![Python Badge][Python]](https://www.python.org/)
+[![Rust Badge][Rust]](https://rust-lang.org/)
+[![PHP Badge][PHP]](https://www.php.net/)
+[![C++ Badge][CPlus]](https://isocpp.org/)
+[![C# Badge][CSharp]](https://isocpp.org/)
+[![Java Badge][Java]](https://www.java.com/)<br/>
+> [![MySQL_Badge][MySQL]](https://www.mysql.com/)
+[![SQLite_Badge][SQLite]](https://sqlite.org/index.html)
+[![MongoDB_Badge][MongoDB]](https://www.mongodb.com/)
+[![PostgreSQL_Badge][PostgreSQL]](https://www.postgresql.org/)
 
 ## 🎥 YouTube Videos
 <!-- YouTube Cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
@@ -61,13 +65,13 @@
 
 ## 💽 Repositories
 <!-- Repository Cards from https://github.com/stats-organization/github-stats-extended -->
-[![JavaII_Repo][33]](https://github.com/8Bitsian/Java-Fall-2026)
-[![CPPII Repo][34]](https://github.com/8Bitsian/CPP-Fall-2026)
-[![OSC Repo][39]](https://github.com/8Bitsian/OSC-Fall-2026)
-[![JavaI Repo][35]](https://github.com/8Bitsian/Java-Spring-2026)
-[![CPPI Repo][36]](https://github.com/8Bitsian/CPP-Spring-2026)
-[![SYST Repo][37]](https://github.com/8Bitsian/SYST-Spring-2026)
-[![PDD Repo][38]](https://github.com/8Bitsian/PDD-Spring-2024)
+[![JavaII_Repo][JavaII]](https://github.com/8Bitsian/Java-Fall-2026)
+[![CPPII Repo][CPPII]](https://github.com/8Bitsian/CPP-Fall-2026)
+[![OSC Repo][OSC]](https://github.com/8Bitsian/OSC-Fall-2026)
+[![JavaI Repo][JavaI]](https://github.com/8Bitsian/Java-Spring-2026)
+[![CPPI Repo][CPPI]](https://github.com/8Bitsian/CPP-Spring-2026)
+[![SYST Repo][SysI]](https://github.com/8Bitsian/SYST-Spring-2026)
+[![PDD Repo][PDD]](https://github.com/8Bitsian/PDD-Spring-2024)
 
 <!-- Links placed here for the file's readability -->
 
@@ -115,10 +119,10 @@
 [32]: https://img.shields.io/badge/JavaScript-2026?logo=javascript&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
 
 <!-- Repositories -->
-[33]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/Java-Fall-2026&description_lines_count=2&theme=buefy
-[34]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/CPP-Fall-2026&description_lines_count=2&theme=buefy
-[35]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/Java-Spring-2026&description_lines_count=2&theme=buefy
-[36]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/CPP-Spring-2026&description_lines_count=2&theme=buefy
-[37]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/SYST-Spring-2026&description_lines_count=2&theme=buefy
-[38]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/PDD-Spring-2024&description_lines_count=2&theme=buefy
-[39]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/OSC-Fall-2026&description_lines_count=2&theme=buefy
+[JavaII]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/Java-Fall-2026&description_lines_count=2&theme=buefy
+[CPPII]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/CPP-Fall-2026&description_lines_count=2&theme=buefy
+[OSC]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/Java-Spring-2026&description_lines_count=2&theme=buefy
+[JavaI]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/CPP-Spring-2026&description_lines_count=2&theme=buefy
+[CPPI]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/SYST-Spring-2026&description_lines_count=2&theme=buefy
+[SysI]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/PDD-Spring-2024&description_lines_count=2&theme=buefy
+[PDD]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/OSC-Fall-2026&description_lines_count=2&theme=buefy

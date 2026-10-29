@@ -24,20 +24,20 @@
 
 ## 🛠️Tech & Tools
 > 🐧 I use Linux Mint and have experience with Windows 11 and Windows 10 operating systems.</br></br>
-> [![Linux_Mint][12]](https://www.linuxmint.com/)
-[![Windows 11][13]](https://www.microsoft.com/en-us/windows/)
+> [![Linux_Mint][Mint]](https://www.linuxmint.com/)
+[![Windows 11][Windows]](https://www.microsoft.com/en-us/windows/)
 
 > ⚙️ My workflow includes designing with Figma and Draw.io; developing with Geany, VSCodium, and the JetBrains suite; and documenting with Obsidian and GitHub.</br></br>
-[![Figma Badge][14]](https://www.figma.com/)
-[![Draw.io Badge][15]](https://app.diagrams.net/)
-[![Obsidian Badge][16]](https://obsidian.md/)
-[![Git Badge][17]](https://git-scm.com/)
-![GitHub Badge][18]
-![Bash_Shell_Badge][19]
-![PowerShell_Badge][20]
-[![Geany Badge][21]](https://www.geany.org/)
-[![VSCodium Badge][22]](https://vscodium.com/)
-[![JetBrains Badge][23]](https://www.jetbrains.com/)
+[![Figma Badge][Figma]](https://www.figma.com/)
+[![Draw.io Badge][Drawio]](https://app.diagrams.net/)
+[![Obsidian Badge][Obsidian]](https://obsidian.md/)
+[![Git Badge][Git]](https://git-scm.com/)
+![GitHub Badge][GitHub]
+![Bash_Badge][Bash]
+![PowerShell_Badge][PowerShell]
+[![Geany Badge][Geany]](https://www.geany.org/)
+[![VSCodium Badge][VSCodium]](https://vscodium.com/)
+[![JetBrains Badge][JetBrains]](https://www.jetbrains.com/)
 
 > 👩🏽‍💻 I work across the stack. My front-end technologies include HTML, CSS, JavaScript, and React; my back-end languages include Python, Rust, C++, C#, Java, and PHP. I also have some experience with MySQL, SQLite, MongoDB, and PostgreSQL.<br/><br/>
 > [![HTML_Badge][HTML]](https://html.spec.whatwg.org/multipage/)
@@ -92,31 +92,51 @@
 [11]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=FFFFF0&color=FFDE59&label=Github%20Streak&labelColor=8C52FF&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3D8Bitsian%26type%3Djson
 
 <!-- Operating Systems -->
-[12]: https://img.shields.io/badge/Linux_Mint-2026?logo=linuxmint&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[13]: https://custom-icon-badges.demolab.com/badge/Windows-2026?style=flat&logo=windows11&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[Mint]: https://img.shields.io/badge/Linux_Mint-2026?logo=linuxmint&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[Windows]: https://custom-icon-badges.demolab.com/badge/Windows-2026?style=flat&logo=windows11&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
 
 <!-- Software -->
-[14]: https://img.shields.io/badge/Figma-2026?logo=figma&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[15]: https://img.shields.io/badge/Draw.io-2026?logo=diagramsdotnet&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[16]: https://img.shields.io/badge/Obsidian-2026?logo=obsidian&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[17]: https://custom-icon-badges.demolab.com/badge/Geany-2026?style=flat&logo=geany2&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[18]: https://img.shields.io/badge/VSCodium-2026?logo=vscodium&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[19]: https://img.shields.io/badge/GitHub-2026?logo=github&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[20]: https://custom-icon-badges.demolab.com/badge/Codespaces-2026?style=flat&logo=code&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[21]: https://img.shields.io/badge/Actions-2026?logo=githubactions&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[22]: https://img.shields.io/badge/Pages-2026?logo=githubpages&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[23]: https://img.shields.io/badge/JetBrains-2026?logo=jetbrains&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[24]: https://img.shields.io/badge/CLion-2025?logo=clion&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[25]: https://img.shields.io/badge/IntelliJ-2025?logo=intellijidea&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[26]: https://img.shields.io/badge/PyCharm-2025?logo=pycharm&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[Figma]: https://img.shields.io/badge/Figma-2026?logo=figma&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[Drawio]: https://img.shields.io/badge/Draw.io-2026?logo=diagramsdotnet&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[Obsidian]: https://img.shields.io/badge/Obsidian-2026?logo=obsidian&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[Git]: https://img.shields.io/badge/Git-2026?logo=git&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[GitHub]: https://img.shields.io/badge/GitHub-2026?logo=github&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[Bash]: https://custom-icon-badges.demolab.com/badge/Bash-2026?style=flat&logo=gnometerminal&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[PowerShell]: https://custom-icon-badges.demolab.com/badge/PowerShell-2026?style=flat&logo=gnometerminal&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[Geany]: https://custom-icon-badges.demolab.com/badge/Geany-2026?style=flat&logo=geany2&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[VSCodium]: https://img.shields.io/badge/VSCodium-2026?logo=vscodium&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[JetBrains]: https://img.shields.io/badge/JetBrains-2026?logo=jetbrains&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+
+> [![HTML_Badge][HTML]](https://html.spec.whatwg.org/multipage/)
+[![CSS_Badge][CSS]](https://www.w3.org/Style/CSS/)
+[![JavaScript_Badge][JS]](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
+[![React_Badge][React]](https://react.dev/versions)<br/>
+> [![Python Badge][Python]](https://www.python.org/)
+[![Rust Badge][Rust]](https://rust-lang.org/)
+[![PHP Badge][PHP]](https://www.php.net/)
+[![C++ Badge][CPlus]](https://isocpp.org/)
+[![C# Badge][CSharp]](https://isocpp.org/)
+[![Java Badge][Java]](https://www.java.com/)<br/>
+> [![MySQL_Badge][MySQL]](https://www.mysql.com/)
+[![SQLite_Badge][SQLite]](https://sqlite.org/index.html)
+[![MongoDB_Badge][MongoDB]](https://www.mongodb.com/)
+[![PostgreSQL_Badge][PostgreSQL]](https://www.postgresql.org/)
 
 <!-- Programming Languages -->
-[27]: https://img.shields.io/badge/C%2B%2B-23?logo=cplusplus&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[28]: https://img.shields.io/badge/Java-25?logo=openjdk&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[29]: https://img.shields.io/badge/Python-3?logo=python&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[30]: https://img.shields.io/badge/HTML5-2026?logo=html5&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[31]: https://img.shields.io/badge/CSS-2026?logo=css&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[32]: https://img.shields.io/badge/JavaScript-2026?logo=javascript&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[HTML]: https://img.shields.io/badge/HTML5-2026?logo=html5&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[CSS]: https://img.shields.io/badge/CSS-2026?logo=css&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[JS]: https://img.shields.io/badge/JavaScript-2026?logo=javascript&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[React]: https://img.shields.io/badge/React-2026?logo=react&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[Python]: https://img.shields.io/badge/Python-3?logo=python&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[Rust]: https://img.shields.io/badge/Rust-3?logo=rust&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[PHP]: https://img.shields.io/badge/PHP-3?logo=php&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[CPlus]: https://img.shields.io/badge/C%2B%2B-23?logo=cplusplus&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[CSharp]: https://img.shields.io/badge/C%2B%2B-23?logo=cplusplus&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[Java]: https://img.shields.io/badge/Java-25?logo=openjdk&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[MySQL]: https://img.shields.io/badge/MySQL-25?logo=mysql&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[SQLite]: https://img.shields.io/badge/SQLite-25?logo=sqlite&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[MongoDB]: https://img.shields.io/badge/MongoDB-25?logo=mongodb&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[PostgreSQL]: https://img.shields.io/badge/PostgreSQL-25?logo=postgresql&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
 
 <!-- Repositories -->
 [JavaII]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/Java-Fall-2026&description_lines_count=2&theme=buefy

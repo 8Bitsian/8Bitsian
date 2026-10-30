@@ -116,7 +116,7 @@
 [Rust]: https://img.shields.io/badge/Rust-3?logo=rust&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
 [PHP]: https://img.shields.io/badge/PHP-3?logo=php&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
 [CPlus]: https://img.shields.io/badge/C%2B%2B-23?logo=cplusplus&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[CSharp]: https://img.shields.io/badge/C%2B%2B-23?logo=cplusplus&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
+[CSharp]: https://img.shields.io/badge/C%23-23?logo=cplusplus&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
 [Java]: https://img.shields.io/badge/Java-25?logo=openjdk&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
 [MySQL]: https://img.shields.io/badge/MySQL-25?logo=mysql&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
 [SQLite]: https://img.shields.io/badge/SQLite-25?logo=sqlite&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59

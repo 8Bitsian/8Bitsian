@@ -7,7 +7,7 @@
 
 ## 👩🏽‍💻 About Me
 > 🎓 Studying for an Associate's degree in Computer Programming<br/>
-> 🖥️ Currently working on my fall courses for the 2026 semester<br/>
+> 🖥️ Currently working on OpenSky Weather Forecast desktop application<br/>
 > 🫱🏻‍🫲🏽 I am always open to collaboration on new projects</br></br>
 > [![my-website][GitHubIO]](https://8bitsian.github.io/)
 [![stack-overflow][Stack]](https://stackoverflow.com/users/32219858/8bitsian)
